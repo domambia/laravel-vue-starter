@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-sm navbar-light bg-light">
-    <router-link to="/" class="navbar-brand">Encomm Solution</router-link>
+    <router-link to="/" class="navbar-brand">Project Name</router-link>
     <button
       class="navbar-toggler d-lg-none"
       type="button"

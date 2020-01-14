@@ -6749,22 +6749,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Sidebar"
 });
@@ -43463,7 +43447,7 @@ var render = function() {
     { staticClass: "navbar navbar-expand-sm navbar-light bg-light" },
     [
       _c("router-link", { staticClass: "navbar-brand", attrs: { to: "/" } }, [
-        _vm._v("Encomm Solution")
+        _vm._v("Project Name")
       ]),
       _vm._v(" "),
       _vm._m(0),
@@ -43637,9 +43621,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", [
-      _c("div", { staticClass: "sidebar-heading" }, [
-        _vm._v("Project Manager")
-      ]),
+      _c("div", { staticClass: "sidebar-heading" }, [_vm._v("Project")]),
       _vm._v(" "),
       _c("div", { staticClass: "list-group list-group-flush" }, [
         _c(
@@ -43681,10 +43663,10 @@ var staticRenderFns = [
               },
               [
                 _c("i", {
-                  staticClass: "fa fa-user  mr-1",
+                  staticClass: "fa fa-user mr-1",
                   attrs: { "aria-hidden": "true" }
                 }),
-                _vm._v("\n                Profile\n            ")
+                _vm._v("\n        Profile\n      ")
               ]
             ),
             _vm._v(" "),
@@ -43696,10 +43678,10 @@ var staticRenderFns = [
               },
               [
                 _c("i", {
-                  staticClass: "fa fa-user  mr-1",
+                  staticClass: "fa fa-user mr-1",
                   attrs: { "aria-hidden": "true" }
                 }),
-                _vm._v(" More\n                Data")
+                _vm._v(" More\n        Data\n      ")
               ]
             )
           ]
@@ -43764,7 +43746,7 @@ var render = function() {
                   "router-link",
                   { staticClass: "nav-link", attrs: { to: "/" } },
                   [
-                    _vm._v("\n                    Home\n                    "),
+                    _vm._v("\n          Home\n          "),
                     _c("span", { staticClass: "sr-only" }, [
                       _vm._v("(current)")
                     ])
