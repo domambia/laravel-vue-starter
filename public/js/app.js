@@ -59640,8 +59640,8 @@ router.afterEach(function (to, from) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/hackert/workspace/project-manager/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /home/hackert/workspace/project-manager/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /home/hackert/workspace/laravel-vue-starter/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /home/hackert/workspace/laravel-vue-starter/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
